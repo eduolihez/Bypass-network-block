@@ -72,7 +72,7 @@ To use this technique, you have to create an SSH server and then configure it re
 
 ### Method #4: Tor
 
-[Tor network](https://surfshark.com/blog/tor-vs-vpn) has also proven helpful when bypassing different restrictions and blocked content. This tool makes use of The Onion Router (Tor) network. The Tor browser sends your traffic through three different nodes (randomly chosen from hundreds and thousands of nodes scattered worldwide). The process is random, and your traffic will be encrypted as it goes through every server.
+[Tor network](https://www.torproject.org/es/download/) has also proven helpful when bypassing different restrictions and blocked content. This tool makes use of The Onion Router (Tor) network. The Tor browser sends your traffic through three different nodes (randomly chosen from hundreds and thousands of nodes scattered worldwide). The process is random, and your traffic will be encrypted as it goes through every server.
 
 The encryption and numerous relays make it difficult for a regular site to identify your location. It is also almost impossible to be caught by some blocking filters, which means that school Wi-Fi will be powerless to stop you. However, the connection is really, really slow, making it entirely unsuitable for games or video.
 
